@@ -1,0 +1,20 @@
+li {
+  font-family:'Quicksand', sans-serif;
+  display: inline-block;
+  margin: 10px;
+  padding: 30px;
+  outline: 1px solid pink;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+div {
+  width: 30%;
+  height: 30%;
+  background-color: green;
+  outline: 1px solid purple;
+}
